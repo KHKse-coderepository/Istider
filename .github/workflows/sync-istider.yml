@@ -18,7 +18,7 @@ jobs:
 
       - name: Download Istider.html
         run: |
-          curl -L "https://karlskronahockey-my.sharepoint.com/:u:/g/personal/web_khk_se/IQCIWG0sp7pnRrFjSCne2hxWAV8sLRfOwd6xLAUbNXeBv9Q?e=b3rU9D" -o index.html
+          curl -L "https://karlskronahockey-my.sharepoint.com/:u:/g/personal/web_khk_se/IQCIWG0sp7pnRrFjSCne2hxWAV8sLRfOwd6xLAUbNXeBv9Q?e=b3rU9D"
 
       - name: Commit changes
         run: |
